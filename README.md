@@ -14,3 +14,7 @@ ps: the final code will be refactored and 100x times better.
 [to convinc myself] (b) an ordinary joe using gmail or protonmail or some other client is not going to be able to going to find the link eaily. 
 (c) an secure algorthm is on its way to fix this concern. 
 Also, if i can get to configure the db running serverless, i'd push it instiantly. So till then... patience...
+
+
+[Edit 1]: me wondering why i posted it here and not on my blog after writing this.
+          maybe cause some other cool kids are doing so
