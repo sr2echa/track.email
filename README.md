@@ -18,3 +18,4 @@ Also, if i can get to configure the db running serverless, i'd push it instiantl
 
 [Edit 1]: me wondering why i posted it here and not on my blog after writing this.
           maybe cause some other cool kids are doing so
+
